@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437228169765",
+    "project_id": "encrypt-messages-950d6",
+    "storage_bucket": "encrypt-messages-950d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437228169765:android:f9f0f0f191222f3d14adcc",
+        "android_client_info": {
+          "package_name": "com.yousef_shora.message_encrypter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437228169765-533go7dlbvgl7ni1u1gs8a1kvdmmajja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrmmAP7MRdewA6VFfRB6oBLoHLIHsQmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437228169765-533go7dlbvgl7ni1u1gs8a1kvdmmajja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
